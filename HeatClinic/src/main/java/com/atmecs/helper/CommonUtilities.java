@@ -35,27 +35,27 @@ public class CommonUtilities extends TestBase {
 	
 	public void registerData(RegistrationData reg, WebDriver driver)
 	{
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Register_xpath"));
-		PerformMethodOperation.SendElement(driver, OR.getProperty("Email_id"), reg.Email);
-		PerformMethodOperation.SendElement(driver, OR.getProperty("FirstName_id"), reg.FirstName);
-		PerformMethodOperation.SendElement(driver, OR.getProperty("LastName_id"), reg.LastName);
-		PerformMethodOperation.SendElement(driver, OR.getProperty("Password_id"), reg.Password);
-		PerformMethodOperation.SendElement(driver, OR.getProperty("ConfirmPassword_id"), reg.ConfirmPassword);
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("SubmitRegister_xpath"));
+		PerformMethodOperation.ClickElement(driver, "Register_xpath");
+		PerformMethodOperation.SendElement(driver, "Email_id", reg.Email);
+		PerformMethodOperation.SendElement(driver, "FirstName_id", reg.FirstName);
+		PerformMethodOperation.SendElement(driver, "LastName_id", reg.LastName);
+		PerformMethodOperation.SendElement(driver, "Password_id", reg.Password);
+		PerformMethodOperation.SendElement(driver, "ConfirmPassword_id", reg.ConfirmPassword);
+		PerformMethodOperation.ClickElement(driver, "SubmitRegister_xpath");
 	}
 
 	public void loginData(RegistrationData reg, WebDriver driver) {
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Login_xpath"));
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Username_name"), reg.Email);
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Password_name"), reg.Password);
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("SubmitLogin_xpath"));
+		PerformMethodOperation.ClickElement(driver, "Login_xpath");
+		PerformMethodOperation.SendElementName(driver, "Username_name", reg.Email);
+		PerformMethodOperation.SendElementName(driver, "Password_name", reg.Password);
+		PerformMethodOperation.ClickElement(driver, "SubmitLogin_xpath");
 	}
 
 
 
 	public void buyOption(WebDriver driver) {
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Click_HotSauces"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("BuyNow"));
+		PerformMethodOperation.ClickElement(driver, "Click_HotSauces");
+		PerformMethodOperation.ClickElement(driver, "BuyNow");
 	}
 
 
@@ -63,7 +63,7 @@ public class CommonUtilities extends TestBase {
 	public void inCart(WebDriver driver) {
 		boolean cart = driver.findElement(By.xpath(OR.getProperty("Click_Incart"))).isDisplayed();
 		Assert.assertTrue(cart);
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Click_Incart"));
+		PerformMethodOperation.ClickElement(driver, "Click_Incart");
 	}
 
 
@@ -72,38 +72,38 @@ public class CommonUtilities extends TestBase {
 		WebElement quantity = driver.findElement(By.xpath(OR.getProperty("quantity")));
 		quantity.clear();
 		quantity.sendKeys("4");
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("update"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("close"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("BuyDayOfDead"));
+		PerformMethodOperation.ClickElement(driver,"update");
+		PerformMethodOperation.ClickElement(driver, "close");
+		PerformMethodOperation.ClickElement(driver, "BuyDayOfDead");
 	}
 
 
 
 	public void CheckOut(WebDriver driver) {
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Click_AddedCart"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("checkout"));
+		PerformMethodOperation.ClickElement(driver, "Click_AddedCart");
+		PerformMethodOperation.ClickElement(driver, "checkout");
 	}
 
 
 
 	public void billingInfo(WebDriver driver) {
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_FirstnameId"), "Sandhiya");
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_LastnameId"), "Munisamy");
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_phonePrimaryId"), "7847859048");
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_addressLine1Id"), "Vellore");
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_addressLine2Id"), "Katpadi");
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_cityId"), "Tamilnadu");
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Checkout_stateId"));
+		PerformMethodOperation.SendElementName(driver, "Checkout_FirstnameId", "Sandhiya");
+		PerformMethodOperation.SendElementName(driver, "Checkout_LastnameId", "Munisamy");
+		PerformMethodOperation.SendElementName(driver, "Checkout_phonePrimaryId", "7847859048");
+		PerformMethodOperation.SendElementName(driver, "Checkout_addressLine1Id", "Vellore");
+		PerformMethodOperation.SendElementName(driver,"Checkout_addressLine2Id", "Katpadi");
+		PerformMethodOperation.SendElementName(driver, "Checkout_cityId", "Tamilnadu");
+		PerformMethodOperation.ClickElement(driver, "Checkout_stateId");
 		Select select = new Select(driver.findElement(By.id("state")));
 		select.selectByVisibleText("TN");
-		PerformMethodOperation.SendElementName(driver, OR.getProperty("Checkout_postalId"), "632007");
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("save_Billing"));
+		PerformMethodOperation.SendElementName(driver, "Checkout_postalId", "632007");
+		PerformMethodOperation.ClickElement(driver, "save_Billing");
 	}
 
 
 
 	public void shippingInfo(WebDriver driver) {
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Shipping_id"));
+		PerformMethodOperation.ClickElement(driver, "Shipping_id");
 		WebElement shippingMethod = driver.findElement(By.id("fulfillmentOptionId2"));
 		boolean shippingIsDisplayed = shippingMethod.isDisplayed();
 		System.out.println("Is shipping method is displayed: " + shippingIsDisplayed); // Is displayed
@@ -114,7 +114,7 @@ public class CommonUtilities extends TestBase {
 																						// radio button selection
 																						// status)
 		shippingMethod.click();
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("Select_shipping"));
+		PerformMethodOperation.ClickElement(driver, "Select_shipping");
 	}
 
 	public void paymentOptions(WebDriver driver) {
@@ -136,15 +136,15 @@ public class CommonUtilities extends TestBase {
 //		action.sendKeys("SANDHIYA MUNISAMY").build().perform();
 //		action.sendKeys(Keys.TAB).build().perform();
 //		action.sendKeys("03/24").build().perform();
-//		PerformMethodOperation.ClickElement(driver, OR.getProperty("cancel_submit"));
+//		PerformMethodOperation.ClickElement(driver, "cancel_submit");
 
 
 
 		/**
 		 * payment using cash on delivery
 		 */
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("collect_on_delivery"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("complete_order"));
+		PerformMethodOperation.ClickElement(driver, "collect_on_delivery");
+		PerformMethodOperation.ClickElement(driver, "complete_order");
 	}
 	/**
 	 * 
@@ -158,7 +158,7 @@ public class CommonUtilities extends TestBase {
 		Actions moveMouseOperation = new Actions(driver);
 		moveMouseOperation.moveToElement(ClickMerchandise).perform();
 		moveMouseOperation.clickAndHold();
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("DropDownMen"));
+		PerformMethodOperation.ClickElement(driver, "DropDownMen");
 		driver.navigate().back();
 		ClickMerchandise = driver.findElement(By.xpath(OR.getProperty("Click_merchandise")));
 		moveMouseOperation.moveToElement(ClickMerchandise).perform();
@@ -167,18 +167,18 @@ public class CommonUtilities extends TestBase {
 
 
 	public void buywomenShirt(WebDriver driver) {
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("DropDownWomen"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("buyWomenShirt"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("ClickRed"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("ClickSmall"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("BuySelected"));
+		PerformMethodOperation.ClickElement(driver, "DropDownWomen");
+		PerformMethodOperation.ClickElement(driver, "buyWomenShirt");
+		PerformMethodOperation.ClickElement(driver, "ClickRed");
+		PerformMethodOperation.ClickElement(driver, "ClickSmall");
+		PerformMethodOperation.ClickElement(driver, "BuySelected");
 	}
 
 
 
 	public void removeItem(WebDriver driver) {
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("selectCart"));
-		PerformMethodOperation.ClickElement(driver, OR.getProperty("RemoveSelected"));
+		PerformMethodOperation.ClickElement(driver, "selectCart");
+		PerformMethodOperation.ClickElement(driver, "RemoveSelected");
 	}
 
 }

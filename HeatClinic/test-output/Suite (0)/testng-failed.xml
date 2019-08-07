@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite (2)]" guice-stage="DEVELOPMENT">
+<suite name="Failed suite [Suite (0)]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.atmecs.testscripts.TestRemoveFromCart">
+      <class name="com.atmecs.testscripts.TestLogin">
         <methods>
           <include name="tearDown"/>
+          <include name="verifyLoginPage" invocation-numbers="0"/>
           <include name="setUp"/>
-          <include name="verifyAddToCart"/>
         </methods>
-      </class> <!-- com.atmecs.testscripts.TestRemoveFromCart -->
+      </class> <!-- com.atmecs.testscripts.TestLogin -->
     </classes>
   </test> <!-- Test(failed) -->
-</suite> <!-- Failed suite [Suite (2)] -->
+</suite> <!-- Failed suite [Suite (0)] -->

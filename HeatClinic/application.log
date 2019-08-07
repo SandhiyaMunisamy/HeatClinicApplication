@@ -1,81 +1,122 @@
-2019-08-06 15:00:16,713  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 15:00:20,702  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (ec8834d49e4b5231b43c1f87beb4aeba)
-2019-08-06 15:00:25,099  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 15:00:26,269  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 15:00:29,140  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (500f6984d0a68d1c5950cf33da5a5f62)
-2019-08-06 15:00:33,410  INFO [main] LogReportFile:29 - User LoggedIn Successfully
-2019-08-06 15:00:34,534  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 15:00:37,692  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (b731129071a9e3aec1f7776b0190d3ab)
-2019-08-06 15:00:52,706  INFO [main] LogReportFile:29 - Added to Cart Successfully
-2019-08-06 15:00:53,946  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 15:00:56,625  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (1b00f038606173bba10a2dcd432a2f0a)
-2019-08-06 15:01:03,742  INFO [main] LogReportFile:29 - Item Removed Successfully
-2019-08-06 17:32:55,183  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 17:32:59,699  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (e2a0ceec9769c94489469311d4020a63)
-2019-08-06 17:33:16,342  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 17:33:17,673  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 17:33:21,301  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (136a5e1df4fa673710ff659255543dcb)
-2019-08-06 17:33:28,781  INFO [main] LogReportFile:29 - User LoggedIn Successfully
-2019-08-06 17:33:29,987  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 17:33:33,519  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (a85f04035bf19b4ead075373fdb57aa3)
-2019-08-06 17:33:53,547  INFO [main] LogReportFile:29 - Added to Cart Successfully
-2019-08-06 17:33:54,720  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 17:33:57,273  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (ac1f946b3e13adc8dd0c30d7fe5f45e1)
-2019-08-06 17:34:05,373  INFO [main] LogReportFile:29 - Item Removed Successfully
-2019-08-06 19:00:48,159  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:00:59,685  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (910a93337b11b605f232108fb75d8f13)
-2019-08-06 19:01:05,304  INFO [main] LogReportFile:29 - Login is processed
-2019-08-06 19:01:28,183  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 19:02:15,730  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:02:19,195  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (c4b0930cfe6be4013c8d164ae55816be)
-2019-08-06 19:02:24,118  INFO [main] LogReportFile:29 - User LoggedIn Successfully
-2019-08-06 19:04:00,748  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:04:04,496  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (e0a30f8ee450e2e42f2b255cb3a92196)
-2019-08-06 19:04:06,945  INFO [main] LogReportFile:29 - Login is processed
-2019-08-06 19:04:09,560  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 19:04:18,360  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:04:21,774  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (9d28ceb0d61f6896c4442007ae155cc4)
-2019-08-06 19:04:54,741  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:04:58,686  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (67844d10653d44397a6f45bc6ceb751a)
-2019-08-06 19:07:40,912  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:07:44,424  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (3ac64471fda5a07febc9fb9b62aa8170)
-2019-08-06 19:08:11,117  INFO [main] LogReportFile:29 - Added to Cart Successfully
-2019-08-06 19:08:19,600  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:08:23,091  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (0dd25e139bcc1031c74e6e3f1e377703)
-2019-08-06 19:08:26,116  INFO [main] LogReportFile:29 - Login is processed
-2019-08-06 19:08:28,489  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 19:08:29,701  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:08:32,196  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (ce4b7d265c69a1aba82601b190308c06)
-2019-08-06 19:08:36,855  INFO [main] LogReportFile:29 - User LoggedIn Successfully
-2019-08-06 19:08:38,072  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:08:40,732  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (6ed2a4bf966fdb7f7019423a664b5ccc)
-2019-08-06 19:08:59,023  INFO [main] LogReportFile:29 - Added to Cart Successfully
-2019-08-06 19:09:00,220  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:09:02,763  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (87cb9a4792cef9a7e5b0416d2d79e716)
-2019-08-06 19:09:12,198  INFO [main] LogReportFile:29 - Item Removed Successfully
-2019-08-06 19:15:01,916  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:15:05,445  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (520c47b8c05184c7ecd167849dabf335)
-2019-08-06 19:15:09,324  INFO [main] LogReportFile:29 - Login is processed
-2019-08-06 19:15:12,303  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 19:15:13,654  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:15:17,000  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (93d961aae3837e78dd57b63df7530eb5)
-2019-08-06 19:15:23,741  INFO [main] LogReportFile:29 - User LoggedIn Successfully
-2019-08-06 19:15:24,924  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:15:28,708  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (73dc1e4a99fb06783202c9e3ecf7ecf2)
-2019-08-06 19:15:49,708  INFO [main] LogReportFile:29 - Added to Cart Successfully
-2019-08-06 19:15:50,813  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:15:53,561  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (28cfe079a930a8133f4ceda3aec73567)
-2019-08-06 19:16:03,202  INFO [main] LogReportFile:29 - Item Removed Successfully
-2019-08-06 19:54:59,369  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:55:19,401  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (29bb24fcb74589360e98a45c39be0c47)
-2019-08-06 19:55:36,456  INFO [main] LogReportFile:29 - Login is processed
-2019-08-06 19:55:47,774  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
-2019-08-06 19:55:49,021  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:55:53,003  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (af44c7faf9c9aa5a1058efa9dffe3efe)
-2019-08-06 19:55:59,771  INFO [main] LogReportFile:29 - User LoggedIn Successfully
-2019-08-06 19:56:00,911  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:56:05,240  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (1c96a7114cf9baf2448e9e92254f0e97)
-2019-08-06 19:56:28,040  INFO [main] LogReportFile:29 - Added to Cart Successfully
-2019-08-06 19:56:29,192  INFO [main] LogReportFile:29 - Running browser: CHROME
-2019-08-06 19:56:32,017  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (1c5f747c5641032b02e0e3ef9fc6e62f)
-2019-08-06 19:56:42,608  INFO [main] LogReportFile:29 - Item Removed Successfully
+2019-08-07 10:25:47,406  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:25:51,142  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (6251d27895d97875345812b04b45bcff)
+2019-08-07 10:25:53,262  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 10:25:55,179  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 10:25:56,419  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:25:59,125  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (29efa62074c4db49a584447371a17a72)
+2019-08-07 10:26:03,532  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 10:26:04,630  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:26:07,310  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (f35c045e1c4c0f255b5188f1ccc30922)
+2019-08-07 10:26:24,746  INFO [main] LogReportFile:29 - Added to Cart Successfully
+2019-08-07 10:26:25,932  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:26:29,080  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (ca58fddb9cb3729d0a408015c8a796f5)
+2019-08-07 10:26:37,637  INFO [main] LogReportFile:29 - Item Removed Successfully
+2019-08-07 10:36:21,551  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:36:25,078  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (e38dc442d1e79bd24e7eaabc2ad4c43c)
+2019-08-07 10:36:27,628  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 10:36:29,806  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 10:40:34,519  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:40:38,174  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (fac841f8d3c07e39001ac85ca91291a7)
+2019-08-07 10:40:40,552  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 10:40:42,652  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 10:40:43,896  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:40:46,615  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (059421f50dc3daa056e2a750e6115df6)
+2019-08-07 10:40:50,963  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 10:40:52,060  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:40:55,004  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (e7a1c5bed00b31ecca2e82c2fa4ff406)
+2019-08-07 10:41:21,084  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:41:23,932  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (dc8687409cc08a5e0594aa9c3ed36ffc)
+2019-08-07 10:41:30,413  INFO [main] LogReportFile:29 - Item Removed Successfully
+2019-08-07 10:41:47,553  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:41:51,143  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (51e4eeaa612a186e013e4cd9f8712172)
+2019-08-07 10:41:53,346  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 10:41:55,506  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 10:41:56,711  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:41:59,295  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (385b306d5d07eb2084c8e48989767ddf)
+2019-08-07 10:42:04,189  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 10:42:06,067  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:42:08,792  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (2f32c6b288bcc7d8ca01970b4053187d)
+2019-08-07 10:42:19,854  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:44:20,184  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:44:23,830  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (1b557511177ebe376ff6cbe40e8aeb21)
+2019-08-07 10:44:26,493  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 10:44:28,790  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 10:44:30,068  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:44:32,836  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (2b74e6a802da3b7132f702c354c1d282)
+2019-08-07 10:44:37,800  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 10:44:38,978  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:44:41,762  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (7deb9ac5664130f41a04e139883e2d21)
+2019-08-07 10:45:05,886  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:45:09,340  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (f3683a613b2722dd4a6f3ce8878ec5dc)
+2019-08-07 10:45:12,694  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 10:45:14,949  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 10:45:16,148  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:45:18,594  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (bd612cde7a043aac87c1959e51eba3e5)
+2019-08-07 10:45:23,245  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 10:45:24,391  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:45:27,081  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (57abf7f5eb495f22af37af0a915fba72)
+2019-08-07 10:45:50,066  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:46:00,746  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:46:04,427  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (c031fafcfea401d2ecbd4a0984955414)
+2019-08-07 10:48:08,436  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:48:18,439  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:48:22,782  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (6690deef8f69031d0a4815625dc40614)
+2019-08-07 10:50:07,311  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:50:10,743  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (93f53c3e95775a47080b3b88b22fb03c)
+2019-08-07 10:50:49,225  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:50:52,589  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (945d92bcf182c42454b114c3da242f3e)
+2019-08-07 10:53:33,572  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:53:37,062  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (475bbb66ce0663cf078d35aab29176d3)
+2019-08-07 10:54:27,992  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:54:32,742  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (ca8c41aaa202137a5643f351b4c20db5)
+2019-08-07 10:55:48,268  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:55:51,739  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (8f340ac6994716e74dfb58c845abbef6)
+2019-08-07 10:55:59,734  INFO [main] LogReportFile:29 - Item Removed Successfully
+2019-08-07 10:57:52,982  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:57:56,415  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (916cfcd6cd54ac510ce6733ccca9cebb)
+2019-08-07 10:59:36,640  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 10:59:40,627  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (d183b299233ba22f5cbf4be102e337e4)
+2019-08-07 11:00:00,144  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:00:03,963  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (ba86e7dc2000e29a6b02757a45149787)
+2019-08-07 11:00:19,417  INFO [main] LogReportFile:29 - Added to Cart Successfully
+2019-08-07 11:00:39,015  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:00:42,962  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (0301691cb8f8d87497d790183771710e)
+2019-08-07 11:00:45,372  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 11:00:47,318  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 11:00:48,471  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:00:51,374  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (9975f690168c23d85356605c2ee3a0e6)
+2019-08-07 11:00:55,775  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 11:00:56,807  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:00:59,720  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (bcd0cdd81e16667e35269e89e2f581cd)
+2019-08-07 11:01:06,588  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:01:09,362  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (0cbf8cf7be802c4de60eb210142a563a)
+2019-08-07 11:01:18,209  INFO [main] LogReportFile:29 - Item Removed Successfully
+2019-08-07 11:01:42,077  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:01:45,604  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (1bb0423957604e2d58f6bc601ebbcf31)
+2019-08-07 11:02:00,544  INFO [main] LogReportFile:29 - Added to Cart Successfully
+2019-08-07 11:02:52,943  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:02:56,334  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (0078a1d98ef50bf19cea4b3417a6f8d5)
+2019-08-07 11:02:58,902  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 11:03:01,047  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 11:03:02,454  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:03:05,217  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (e38ef187e7625b3e7c535949a56ef645)
+2019-08-07 11:03:09,263  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 11:03:10,335  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:03:13,093  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (22509402db1220444700f82be0204b04)
+2019-08-07 11:03:27,737  INFO [main] LogReportFile:29 - Added to Cart Successfully
+2019-08-07 11:03:28,832  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:03:31,595  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (05bbd1c8212cab78e8108f07dc66d97f)
+2019-08-07 11:03:40,281  INFO [main] LogReportFile:29 - Item Removed Successfully
+2019-08-07 11:04:23,292  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:04:26,519  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (d8e9e9847f71985b2b51001e15c189ee)
+2019-08-07 11:04:29,051  INFO [main] LogReportFile:29 - Login is processed
+2019-08-07 11:04:31,477  INFO [main] LogReportFile:29 - Registered SuccesfullyBroadleaf Commerce Demo Store - Heat Clinic - Register
+2019-08-07 11:04:32,706  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:04:35,452  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (d142062a180052d0015c559bba3711c1)
+2019-08-07 11:04:39,531  INFO [main] LogReportFile:29 - User LoggedIn Successfully
+2019-08-07 11:04:40,772  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:04:43,565  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (3d69416bb0bf865a4cb0b8b8f8224678)
+2019-08-07 11:05:02,829  INFO [main] LogReportFile:29 - Added to Cart Successfully
+2019-08-07 11:05:03,940  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-07 11:05:06,588  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (1d92052f9f1730ae08fbaa0cf16d7eb6)
+2019-08-07 11:05:15,011  INFO [main] LogReportFile:29 - Item Removed Successfully
