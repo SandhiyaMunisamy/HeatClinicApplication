@@ -1,0 +1,65 @@
+2019-08-13 19:35:05,685  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-13 19:35:09,069  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (d65d43ac4c10f594feb957959538d9cb)
+2019-08-13 19:35:19,558  INFO [main] LogReportFile:29 - Started TestScenario 1:Login
+2019-08-13 19:35:19,585  INFO [main] LogReportFile:29 - Actual: ToolsQA Demo Site – ToolsQA – Demo E-Commerce Site
+2019-08-13 19:35:19,586  INFO [main] LogReportFile:29 - Expected: loc.expected.homepage
+2019-08-13 19:35:19,586  INFO [main] LogReportFile:29 -  Message :Home Page Title Verified
+2019-08-13 19:35:21,508  INFO [main] LogReportFile:29 - Actual: http://shop.demoqa.com/my-account/
+2019-08-13 19:35:21,509  INFO [main] LogReportFile:29 - Expected: loc.expected.myaccounturl
+2019-08-13 19:35:21,509  INFO [main] LogReportFile:29 -  Message :My account url is successfully verified
+2019-08-13 19:35:23,459  INFO [main] LogReportFile:29 - Login operation is performed
+2019-08-13 19:35:24,531  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-13 19:35:27,425  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (cd662b9ea9f144e20a75c2576b077532)
+2019-08-13 19:35:38,166  INFO [main] LogReportFile:29 - Started TestScenario 2:Add item to cart
+2019-08-13 19:35:38,195  INFO [main] LogReportFile:29 - Actual: ToolsQA Demo Site – ToolsQA – Demo E-Commerce Site
+2019-08-13 19:35:38,196  INFO [main] LogReportFile:29 - Expected: loc.expected.homepage
+2019-08-13 19:35:38,196  INFO [main] LogReportFile:29 -  Message :Home Page Title Verified
+2019-08-13 19:35:43,077  INFO [main] LogReportFile:29 - Actual: http://shop.demoqa.com/product/red-satin-round-neck-backless-maxi-dress/
+2019-08-13 19:35:43,077  INFO [main] LogReportFile:29 - Expected: loc.expected.url
+2019-08-13 19:35:43,078  INFO [main] LogReportFile:29 -  Message :url is verified
+2019-08-13 19:35:43,078  INFO [main] LogReportFile:29 - User clicked on Item to buy
+2019-08-13 19:35:43,078  INFO [main] LogReportFile:29 - Testcase 1 passed
+2019-08-13 19:35:43,220  INFO [main] LogReportFile:29 - Clicked on color to select
+2019-08-13 19:35:43,518  INFO [main] LogReportFile:29 - Total Number of item count in dropdown list = 3
+2019-08-13 19:35:43,519  INFO [main] LogReportFile:29 - Color is selected
+2019-08-13 19:35:43,892  INFO [main] LogReportFile:29 - Total Number of item count in dropdown list = 4
+2019-08-13 19:35:43,892  INFO [main] LogReportFile:29 - Size is selected
+2019-08-13 19:35:44,346  INFO [main] LogReportFile:29 - Quantity updated
+2019-08-13 19:35:47,350  INFO [main] LogReportFile:29 - Item successfully added to cart
+2019-08-13 19:35:47,351  INFO [main] LogReportFile:29 - Test case2 passed
+2019-08-13 19:35:50,606  INFO [main] LogReportFile:29 - Total number of item added to cart is: 1
+2019-08-13 19:35:50,636  INFO [main] LogReportFile:29 - Total quantity and GrandTotal:Cart(6)
+?402.00
+2019-08-13 19:35:50,637  INFO [main] LogReportFile:29 - Grandtotal is displayed
+2019-08-13 19:35:50,637  INFO [main] LogReportFile:29 - Item add to cart is succesfully done
+2019-08-13 19:35:50,638  INFO [main] LogReportFile:29 - Testcase 3 passed
+2019-08-13 19:35:51,787  INFO [main] LogReportFile:29 - Running browser: CHROME
+2019-08-13 19:35:54,627  INFO [main] LogReportFile:29 - Running ChromeDriver: chrome on XP (263214ebcb4913f368c694ffa308ff03)
+2019-08-13 19:36:05,289  INFO [main] LogReportFile:29 - Started TestScenario 3:Manage added items
+2019-08-13 19:36:05,322  INFO [main] LogReportFile:29 - Actual: ToolsQA Demo Site – ToolsQA – Demo E-Commerce Site
+2019-08-13 19:36:05,322  INFO [main] LogReportFile:29 - Expected: loc.expected.homepage
+2019-08-13 19:36:05,322  INFO [main] LogReportFile:29 -  Message :Home Page Title Verified
+2019-08-13 19:36:14,384  INFO [main] LogReportFile:29 - Clicked on color to select
+2019-08-13 19:36:14,641  INFO [main] LogReportFile:29 - Total Number of item count in dropdown list = 3
+2019-08-13 19:36:14,641  INFO [main] LogReportFile:29 - Color is selected
+2019-08-13 19:36:14,993  INFO [main] LogReportFile:29 - Total Number of item count in dropdown list = 4
+2019-08-13 19:36:14,993  INFO [main] LogReportFile:29 - Size is selected
+2019-08-13 19:36:15,459  INFO [main] LogReportFile:29 - Quantity updated
+2019-08-13 19:36:18,190  INFO [main] LogReportFile:29 - Item successfully added to cart
+2019-08-13 19:36:18,191  INFO [main] LogReportFile:29 - Test case2 passed
+2019-08-13 19:36:22,866  INFO [main] LogReportFile:29 - Clicked on color to select
+2019-08-13 19:36:23,114  INFO [main] LogReportFile:29 - Total Number of item count in dropdown list = 2
+2019-08-13 19:36:23,114  INFO [main] LogReportFile:29 - Color is selected
+2019-08-13 19:36:23,405  INFO [main] LogReportFile:29 - Total Number of item count in dropdown list = 4
+2019-08-13 19:36:23,406  INFO [main] LogReportFile:29 - Size is selected
+2019-08-13 19:36:23,708  INFO [main] LogReportFile:29 - Quantity updated
+2019-08-13 19:36:25,274  INFO [main] LogReportFile:29 - Item successfully added to cart
+2019-08-13 19:36:27,333  INFO [main] LogReportFile:29 - Total number of item added to cart is: 1
+2019-08-13 19:36:27,358  INFO [main] LogReportFile:29 - Total quantity and GrandTotal:Cart(15)
+?600.00
+2019-08-13 19:36:27,358  INFO [main] LogReportFile:29 - Grandtotal is displayed
+2019-08-13 19:36:27,358  INFO [main] LogReportFile:29 - Item add to cart is succesfully done
+2019-08-13 19:36:30,260  INFO [main] LogReportFile:29 - Total number of item added to cart is: 1
+2019-08-13 19:36:30,285  INFO [main] LogReportFile:29 - Total quantity and GrandTotal:Cart(6)
+?402.00
+2019-08-13 19:36:30,286  INFO [main] LogReportFile:29 - Removed item and Grandtotal is displayed
