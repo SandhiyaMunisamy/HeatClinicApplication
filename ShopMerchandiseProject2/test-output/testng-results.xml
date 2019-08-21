@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-21T11:55:31Z" name="Suite" finished-at="2019-08-21T11:56:47Z" duration-ms="76220">
+    <groups>
+    </groups>
+    <test started-at="2019-08-21T11:55:31Z" name="Test" finished-at="2019-08-21T11:56:47Z" duration-ms="76220">
+      <class name="com.atmecs.testscripts.TestLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.TestLogin@323b36e0]" started-at="2019-08-21T11:55:31Z" name="setUp" finished-at="2019-08-21T11:56:39Z" duration-ms="67516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPage(com.atmecs.helper.LoginData)[pri:0, instance:com.atmecs.testscripts.TestLogin@323b36e0]" started-at="2019-08-21T11:56:39Z" name="verifyLoginPage" data-provider="loginData" finished-at="2019-08-21T11:56:46Z" duration-ms="6873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[LoginData [Email=sandhiya@atmecs.com, Password=TestQaAutomation17]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.TestLogin@323b36e0]" started-at="2019-08-21T11:56:46Z" name="tearDown" finished-at="2019-08-21T11:56:47Z" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.TestLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2019-08-21T11:58:07Z" name="Suite (1)" finished-at="2019-08-21T12:01:36Z" duration-ms="209189">
+    <groups>
+    </groups>
+    <test started-at="2019-08-21T11:58:07Z" name="Test" finished-at="2019-08-21T12:01:36Z" duration-ms="209189">
+      <class name="com.atmecs.testscripts.TestManageCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.TestManageCart@4550bb58]" started-at="2019-08-21T11:58:07Z" name="setUp" finished-at="2019-08-21T11:59:15Z" duration-ms="68246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddToCart()[pri:0, instance:com.atmecs.testscripts.TestManageCart@4550bb58]" started-at="2019-08-21T11:59:15Z" name="verifyAddToCart" finished-at="2019-08-21T12:01:35Z" duration-ms="139916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.TestManageCart@4550bb58]" started-at="2019-08-21T12:01:35Z" name="tearDown" finished-at="2019-08-21T12:01:36Z" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.TestManageCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite started-at="2019-08-21T11:56:47Z" name="Suite (0)" finished-at="2019-08-21T11:58:07Z" duration-ms="80413">
+    <groups>
+    </groups>
+    <test started-at="2019-08-21T11:56:47Z" name="Test" finished-at="2019-08-21T11:58:07Z" duration-ms="80413">
+      <class name="com.atmecs.testscripts.TestAddToCart">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.TestAddToCart@564fabc8]" started-at="2019-08-21T11:56:47Z" name="setUp" finished-at="2019-08-21T11:57:55Z" duration-ms="67811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddToCart()[pri:0, instance:com.atmecs.testscripts.TestAddToCart@564fabc8]" started-at="2019-08-21T11:57:55Z" name="verifyAddToCart" finished-at="2019-08-21T11:58:06Z" duration-ms="10980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.TestAddToCart@564fabc8]" started-at="2019-08-21T11:58:06Z" name="tearDown" finished-at="2019-08-21T11:58:07Z" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.TestAddToCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2019-08-21T12:01:37Z" name="ShopMerchandiseProject" finished-at="2019-08-21T12:01:37Z" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- ShopMerchandiseProject -->
+</testng-results>

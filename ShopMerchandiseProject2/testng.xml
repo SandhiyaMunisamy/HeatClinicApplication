@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ShopMerchandiseProject">
+
+ 
+  <listeners>
+    <listener class-name="com.atmecs.extentReport.CustomListener" />
+  </listeners>
+  
+	<suite-files>
+		<suite-file path= "./resources/suites/Login.xml" />
+		<suite-file path="./resources/suites/AddToCart.xml" />
+		<suite-file path="./resources/suites/ManageCart.xml" />
+	</suite-files>
+</suite> 
