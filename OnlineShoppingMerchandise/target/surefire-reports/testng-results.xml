@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-28T13:53:57Z" name="Suite" finished-at="2019-08-28T13:55:08Z" duration-ms="70978">
+    <groups>
+    </groups>
+    <test started-at="2019-08-28T13:53:57Z" name="Test" finished-at="2019-08-28T13:55:08Z" duration-ms="70978">
+      <class name="com.atmecs.testscripts.HomePageProducts">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.HomePageProducts@6b419da]" started-at="2019-08-28T13:53:57Z" name="setUp" finished-at="2019-08-28T13:55:05Z" duration-ms="68611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageProducts()[pri:0, instance:com.atmecs.testscripts.HomePageProducts@6b419da]" started-at="2019-08-28T13:55:05Z" name="verifyHomePageProducts" finished-at="2019-08-28T13:55:07Z" duration-ms="1536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.HomePageProducts@6b419da]" started-at="2019-08-28T13:55:07Z" name="tearDown" finished-at="2019-08-28T13:55:08Z" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.HomePageProducts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2019-08-28T13:56:20Z" name="Suite (1)" finished-at="2019-08-28T13:57:55Z" duration-ms="95378">
+    <groups>
+    </groups>
+    <test started-at="2019-08-28T13:56:20Z" name="Test" finished-at="2019-08-28T13:57:55Z" duration-ms="95378">
+      <class name="com.atmecs.testscripts.FilterProductPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.FilterProductPage@527e5409]" started-at="2019-08-28T13:56:20Z" name="setUp" finished-at="2019-08-28T13:57:26Z" duration-ms="66347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyByFilteringProducts()[pri:0, instance:com.atmecs.testscripts.FilterProductPage@527e5409]" started-at="2019-08-28T13:57:26Z" name="verifyByFilteringProducts" finished-at="2019-08-28T13:57:54Z" duration-ms="28246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByFilteringProducts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.FilterProductPage@527e5409]" started-at="2019-08-28T13:57:54Z" name="tearDown" finished-at="2019-08-28T13:57:55Z" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.FilterProductPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite started-at="2019-08-28T13:55:08Z" name="Suite (0)" finished-at="2019-08-28T13:56:20Z" duration-ms="72238">
+    <groups>
+    </groups>
+    <test started-at="2019-08-28T13:55:08Z" name="Test" finished-at="2019-08-28T13:56:20Z" duration-ms="72238">
+      <class name="com.atmecs.testscripts.NavigatePageProducts">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.atmecs.testscripts.NavigatePageProducts@78047b92]" started-at="2019-08-28T13:55:08Z" name="setUp" finished-at="2019-08-28T13:56:13Z" duration-ms="65767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNavigatePage()[pri:0, instance:com.atmecs.testscripts.NavigatePageProducts@78047b92]" started-at="2019-08-28T13:56:13Z" name="verifyNavigatePage" finished-at="2019-08-28T13:56:19Z" duration-ms="5313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigatePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.atmecs.testscripts.NavigatePageProducts@78047b92]" started-at="2019-08-28T13:56:19Z" name="tearDown" finished-at="2019-08-28T13:56:20Z" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.atmecs.testscripts.NavigatePageProducts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2019-08-28T13:57:56Z" name="OnlineShoppingMerchandise" finished-at="2019-08-28T13:57:56Z" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- OnlineShoppingMerchandise -->
+</testng-results>

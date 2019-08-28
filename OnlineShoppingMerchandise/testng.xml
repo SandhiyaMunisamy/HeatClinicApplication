@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OnlineShoppingMerchandise">
+
+	<suite-files>
+		<suite-file path= "./resources/suites/HomePageProducts.xml" />
+		<suite-file path="./resources/suites/NavigatePageProducts.xml" />
+		<suite-file path="./resources/suites/FilterProductPage.xml" />
+	</suite-files>
+</suite>
